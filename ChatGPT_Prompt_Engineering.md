@@ -1,7 +1,17 @@
 # ChatGPT Prompt Engineering: Practical Techniques
 
 Welcome to DataWisdom where I discuss various technical skills and experiences. 
+
+A prompt is a short piece of text that is given to the large language model as input. The quality of prompt controls the output of the model in a variety of ways. Prompt design is the process of creating a prompt that will generate the desired output from a large language model.
+
+Prompt engineering, on the other hand, is the process of optimizing prompts and LLMs to achieve specific performance goals. This may involve tasks such as:
+- Tuning hyperparameters to improve the accuracy or fluency of LLM outputs.
+- Generating new prompts to explore different ways of phrasing a task or question.
+- Developing new techniques for evaluating and debugging prompt performance.
+Prompt engineers often have a deep understanding of the underlying algorithms that power LLMs, and they use this knowledge to develop innovative ways to improve LLM performance.
+
 Following my completion of the "ChatGPT Prompt Engineering for Developers" course by DeepLearning.AI, I've put my understanding into a series of practical techniques for prompt engineering with ChatGPT. These bullet points include actionable techniques that can be directly applied to interact with the model more effectively.
+
 
 ## Techniques and Strategies
 
