@@ -10,3 +10,6 @@ Check out the [EDA Project Outline](https://github.com/pratheeksha11/DataWisdom/
 In this post, I encapsulate the key techniques of prompt engineering for ChatGPT, a skill honed through the "ChatGPT Prompt Engineering for Developers" course by DeepLearning.AI. Aimed at both novices and experienced developers, the article provides a distilled toolkit of strategies—from crafting precise commands to managing dialogue flow—that are vital for optimizing interactions with AI models. 
 Check out the [ChatGPT Prompt Engineering: Practical Techniques](https://github.com/pratheeksha11/DataWisdom/blob/main/ChatGPT_Prompt_Engineering.md).
 
+## Post 3: Different Types of Recommendation Systems in AI
+In this post, I have gathered information on Recommendation systems being used in the field of AI across most of the big technologies in the world. From the movies we binge-watch to the books we devour, these systems influence our choices more than we realize. It's a fun way to know how technology helps us find new favorites!
+[Check out the post here](https://github.com/pratheeksha11/DataWisdom/blob/main/recommendation_systems_in_AI.md)
