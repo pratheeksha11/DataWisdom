@@ -13,3 +13,9 @@ Check out the [ChatGPT Prompt Engineering: Practical Techniques](https://github.
 ## Post 3: Different Types of Recommendation Systems in AI
 In this post, I have gathered information on Recommendation systems being used in the field of AI across most of the big technologies in the world. From the movies we binge-watch to the books we devour, these systems influence our choices more than we realize. It's a fun way to know how technology helps us find new favorites!
 [Check out the post here](https://github.com/pratheeksha11/DataWisdom/blob/main/recommendation_systems_in_AI.md)
+
+## Post 4: Understanding Data Analysis in Business
+This post provides a comprehensive overview of the different types of data analytics used in business: Descriptive, Diagnostic, Predictive, Prescriptive, and Cognitive Analytics. From summarizing past data to predicting and influencing future outcomes, the post explains how these analytics techniques enable businesses to make informed, data-driven decisions. It's a valuable resource for anyone looking to understand the various aspects of business analytics and their importance in today's data-centric world. [Check out the post here](https://github.com/pratheeksha11/DataWisdom/blob/main/Data_Analysis_Overview_in_Business.md)
+
+
+
