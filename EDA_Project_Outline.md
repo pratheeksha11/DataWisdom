@@ -2,6 +2,8 @@
 
 Welcome to the first entry of my tech learning journey! This post outlines the steps for creating a high-level Exploratory Data Analysis (EDA) project suitable for showcasing in a GitHub portfolio.
 
+![image](https://github.com/pratheeksha11/DataWisdom/blob/main/image2.png)
+
 ## Steps Overview
 
 1. **Data Overview**
