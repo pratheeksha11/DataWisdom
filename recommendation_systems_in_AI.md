@@ -1,7 +1,7 @@
 # Different Types of Recommendation Systems in AI
 
 Welcome to our exploration of the diverse world of recommendation systems in AI! These systems are behind the personalized experiences we enjoy on various platforms, from online shopping to movie streaming. 
-
+![image](https://github.com/pratheeksha11/DataWisdom/blob/main/image1.png)
 Let's dive into the different types and see how they are used in the real world.
 
 ## 1. Content-Based Filtering
