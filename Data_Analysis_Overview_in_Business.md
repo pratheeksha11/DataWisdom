@@ -8,7 +8,8 @@ Data analysis in business is crucial and involves cleaning, modeling, and visual
 3. **Predictive Analytics**
 4. **Prescriptive Analytics**
 5. **Cognitive Analytics**
-   
+
+![image](https://github.com/pratheeksha11/DataWisdom/blob/main/image4.png)
 # Detailed Overview of Data Analytics Types in Business
 
 ## 1. Descriptive Analytics
