@@ -9,7 +9,7 @@ Prompt engineering, on the other hand, is the process of optimizing prompts and 
 - Generating new prompts to explore different ways of phrasing a task or question.
 - Developing new techniques for evaluating and debugging prompt performance.
 Prompt engineers often have a deep understanding of the underlying algorithms that power LLMs, and they use this knowledge to develop innovative ways to improve LLM performance.
-
+![image](https://github.com/pratheeksha11/DataWisdom/blob/main/image3.png)
 Following my completion of the "ChatGPT Prompt Engineering for Developers" course by DeepLearning.AI, I've put my understanding into a series of practical techniques for prompt engineering with ChatGPT. These bullet points include actionable techniques that can be directly applied to interact with the model more effectively.
 
 
