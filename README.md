@@ -17,5 +17,8 @@ In this post, I have gathered information on Recommendation systems being used i
 ## Post 4: Understanding Data Analysis in Business
 This post provides a comprehensive overview of the different types of data analytics used in business: Descriptive, Diagnostic, Predictive, Prescriptive, and Cognitive Analytics. From summarizing past data to predicting and influencing future outcomes, the post explains how these analytics techniques enable businesses to make informed, data-driven decisions. It's a valuable resource for anyone looking to understand the various aspects of business analytics and their importance in today's data-centric world. [Check out the post here](https://github.com/pratheeksha11/DataWisdom/blob/main/Data_Analysis_Overview_in_Business.md)
 
+## Post 5: The Importance of Domain Knowledge in Data Analytics, Data Engineering, and Data Science
+In this post, we delve into the pivotal role of domain knowledge across the spectrum of data disciplines, including analytics, engineering, and science. Discover how understanding industry-specific contexts and nuances elevates the impact and accuracy of data-driven decisions.
+[Check out the post here](https://github.com/pratheeksha11/DataWisdom/blob/main/Domain_knowledge_in_dataworld.md)
 
 
