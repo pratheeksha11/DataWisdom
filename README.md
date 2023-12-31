@@ -22,4 +22,8 @@ This post provides a comprehensive overview of the different types of data analy
 In this post, we delve into the pivotal role of domain knowledge across the spectrum of data disciplines, including analytics, engineering, and science. Discover how understanding industry-specific contexts and nuances elevates the impact and accuracy of data-driven decisions.
 [Check out the post here](https://github.com/pratheeksha11/DataWisdom/blob/main/Domain_knowledge_in_dataworld.md)
 
+## Post 6: The Impact of Data Analytics and Engineering in Industries
+This detailed guide delves into the specific applications and transformative impacts of data-driven strategies in 15 key industries, highlighting how these technologies optimize operations, innovate services, and drive growth. Whether improving patient care or enhancing cybersecurity, discover the pervasive power of data across the modern industrial landscape.
+[Check out the article](https://github.com/pratheeksha11/DataWisdom/blob/main/Domain_list_in_data.md)
+
 
