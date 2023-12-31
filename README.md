@@ -1,5 +1,6 @@
 # Data Wisdom: My Learning Journey of Data & Technology
 ![ViewCount](https://views.whatilearened.today/views/github/pratheeksha11/DataWisdom.svg?cache=remove)
+![ViewCount](https://views.whatilearened.today/views/github/pratheeksha11/pratheeksha11.svg?cache=remove)
 
 Welcome to "Data Wisdom," where I document my learning journey through the fascinating world of technology with a focus on machine learning and data science. This repository will serve as a platform to share knowledge, explore new trends, and reflect on the ever-evolving landscape of AI and data analytics.
 
